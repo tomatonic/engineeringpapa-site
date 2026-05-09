@@ -38,7 +38,7 @@ KAKUGO は 4+ で配信されており、年齢に関わらず安心してご利
 
 ### 8. お問い合わせ
 ご質問・ご要望は以下までお願いします：
-matsumo0811@gmail.com
+info@tomatonic.com
 
 ---
 
@@ -72,7 +72,7 @@ If this policy changes, we will update the "Last updated" date at the top. Signi
 
 ### 8. Contact
 For questions or requests, please contact:
-matsumo0811@gmail.com
+info@tomatonic.com
 
 ---
 

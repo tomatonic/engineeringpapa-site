@@ -43,7 +43,7 @@ A. フェーズ1では iOS のみ対応です。Android 版はフェーズ2以�
 
 不具合報告・ご要望・その他お問い合わせは以下まで：
 
-**matsumo0811@gmail.com**
+**info@tomatonic.com**
 
 X でのご連絡も受け付けています：
 [@EngineeringPapa](https://x.com/EngineeringPapa)

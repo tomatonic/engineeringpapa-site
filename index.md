@@ -18,4 +18,4 @@ title: Engineering Papa
 ---
 
 ## 連絡先
-matsumo0811@gmail.com
+info@tomatonic.com

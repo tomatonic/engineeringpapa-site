@@ -11,4 +11,4 @@
 
 ## 関連リンク
 - X: [@EngineeringPapa](https://x.com/EngineeringPapa)
-- 連絡先: matsumo0811@gmail.com
+- 連絡先: info@tomatonic.com
