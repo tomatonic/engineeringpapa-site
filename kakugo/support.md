@@ -1,5 +1,6 @@
 ---
 title: KAKUGO サポート
+permalink: /kakugo/support/
 ---
 
 # KAKUGO サポート

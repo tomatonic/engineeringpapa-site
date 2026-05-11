@@ -1,5 +1,6 @@
 ---
 title: KAKUGO プライバシーポリシー
+permalink: /kakugo/privacy/
 ---
 
 # プライバシーポリシー / Privacy Policy
