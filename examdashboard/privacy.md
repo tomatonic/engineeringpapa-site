@@ -64,7 +64,7 @@ Engineering Papa（以下「当方」といいます）は、iOS アプリ「中
 
 本プライバシーポリシーに関するお問い合わせは、以下の連絡先までお願いします。
 
-- メール: matsumo0811@gmail.com
+- メール: info@tomatonic.com
 - X (旧 Twitter): [@EngineeringPapa](https://x.com/EngineeringPapa)
 
 ---

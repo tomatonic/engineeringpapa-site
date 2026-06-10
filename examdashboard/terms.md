@@ -87,7 +87,7 @@ permalink: /examdashboard/terms/
 
 本規約に関するお問い合わせは、以下の連絡先までお願いします。
 
-- メール: matsumo0811@gmail.com
+- メール: info@tomatonic.com
 - X (旧 Twitter): [@EngineeringPapa](https://x.com/EngineeringPapa)
 
 ---
