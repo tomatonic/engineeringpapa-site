@@ -9,6 +9,13 @@ title: Engineering Papa
 
 ## アプリ
 
+### [中学受験までにやること](examdashboard/)
+中学受験までの残日数をホーム画面に常時表示、朝・夜のルーティン、本日のタスク、週間スケジュール、お守り画面まで。合格までの日々を整える iOS アプリ。
+
+- [プライバシーポリシー](examdashboard/privacy/)
+- [利用規約](examdashboard/terms/)
+- [サポート / FAQ](examdashboard/support/)
+
 ### [KAKUGO](kakugo/)
 覚悟に値段をつけて、達成したら寄付に変える iOS アプリ。
 
