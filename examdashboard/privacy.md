@@ -1,6 +1,8 @@
 ---
 title: 中学受験までにやること プライバシーポリシー
 permalink: /examdashboard/privacy/
+description: 「中学受験までにやること」のプライバシーポリシー。データは端末内のみに保存し、外部サーバーへ送信しません。
+image: /assets/og-examdashboard.png
 ---
 
 # プライバシーポリシー

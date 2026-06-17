@@ -1,6 +1,8 @@
 ---
 title: 中学受験までにやること
 permalink: /examdashboard/
+description: 中学受験までの残日数をホーム画面に常時表示する iOS アプリ。朝夜のルーティン、本日のタスク、週間スケジュール、お守り画面まで、合格までの日々を整える。
+image: /assets/og-examdashboard.png
 ---
 
 # 中学受験までにやること

@@ -1,6 +1,8 @@
 ---
 title: 中学受験までにやること 利用規約
 permalink: /examdashboard/terms/
+description: 「中学受験までにやること」の利用規約。サブスクリプション、無料トライアル、自動更新、解約、返金などの条件を記載。
+image: /assets/og-examdashboard.png
 ---
 
 # 利用規約

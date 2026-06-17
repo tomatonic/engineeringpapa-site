@@ -1,6 +1,8 @@
 ---
 title: 中学受験までにやること サポート
 permalink: /examdashboard/support/
+description: 「中学受験までにやること」のサポート / FAQ。データ保存、ウィジェット、通知、サブスクリプション解約などのよくある質問。
+image: /assets/og-examdashboard.png
 ---
 
 # サポート

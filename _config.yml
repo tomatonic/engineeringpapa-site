@@ -2,3 +2,10 @@ title: Engineering Papa
 description: AI と一緒に作る個人開発アプリ
 theme: jekyll-theme-minimal
 lang: ja
+
+twitter:
+  username: EngineeringPapa
+  card: summary_large_image
+
+plugins:
+  - jekyll-sitemap

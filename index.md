@@ -1,5 +1,7 @@
 ---
 title: Engineering Papa
+description: AI と一緒に個人開発アプリを作る30代パパ「Engineering Papa」。中学受験アプリ『中学受験までにやること』などを公開中。
+image: /assets/og-examdashboard.png
 ---
 
 # Engineering Papa
