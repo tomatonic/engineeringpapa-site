@@ -10,6 +10,12 @@ image: /assets/og-examdashboard.png
 中学受験まで残り何日かを、ホーム画面に常時表示する iOS アプリ。
 朝・夜のルーティン、本日のタスク、週間スケジュール、お守り画面まで、合格までの日々を整えるツールです。
 
+<p>
+  <a href="https://apps.apple.com/app/id6778781373">
+    <img src="{{ '/assets/app-store-badge-ja.svg' | relative_url }}" alt="App Store でダウンロード" height="54">
+  </a>
+</p>
+
 ## コンセプト
 
 息子の中学受験で「あったらいいな」を凝縮したアプリ。

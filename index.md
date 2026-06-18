@@ -14,6 +14,12 @@ image: /assets/og-examdashboard.png
 ### [中学受験までにやること](examdashboard/)
 中学受験までの残日数をホーム画面に常時表示、朝・夜のルーティン、本日のタスク、週間スケジュール、お守り画面まで。合格までの日々を整える iOS アプリ。
 
+<p>
+  <a href="https://apps.apple.com/app/id6778781373">
+    <img src="{{ '/assets/app-store-badge-ja.svg' | relative_url }}" alt="App Store でダウンロード" height="48">
+  </a>
+</p>
+
 - [プライバシーポリシー](examdashboard/privacy/)
 - [利用規約](examdashboard/terms/)
 - [サポート / FAQ](examdashboard/support/)
