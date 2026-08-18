@@ -1,6 +1,6 @@
 ---
 title: Engineering Papa
-description: AI と一緒に個人開発アプリを作る30代パパ「Engineering Papa」。中学受験アプリ『中学受験までにやること』などを公開中。
+description: AI と一緒に個人開発アプリを作る30代パパ「Engineering Papa」。中学受験アプリ『中学受験までにやること』、音楽図鑑アプリ『オトマモノ』を公開中。
 image: /assets/og-examdashboard.png
 ---
 
@@ -23,6 +23,18 @@ image: /assets/og-examdashboard.png
 - [プライバシーポリシー](examdashboard/privacy/)
 - [利用規約](examdashboard/terms/)
 - [サポート / FAQ](examdashboard/support/)
+
+### [オトマモノ](otomamono/)
+iPhone の中の曲からモンスターが生まれ、120マスの図鑑に集まっていく iOS アプリ。同じ曲からは、誰の端末でも必ず同じ一体が生まれます。
+
+<p>
+  <a href="https://apps.apple.com/app/id6800379753">
+    <img src="{{ '/assets/app-store-badge-ja.svg' | relative_url }}" alt="App Store でダウンロード" height="48">
+  </a>
+</p>
+
+- [プライバシーポリシー](otomamono/privacy/)
+- [サポート / FAQ](otomamono/support/)
 
 ### [KAKUGO](kakugo/)
 覚悟に値段をつけて、達成したら寄付に変える iOS アプリ。
