@@ -2,6 +2,7 @@
 title: オトマモノ
 permalink: /otomamono/
 description: 端末の音楽からモンスターを見つけて図鑑に集める iOS アプリ。同じ曲からは誰の端末でも同じモンスターが生まれます。読み取るのは曲名などのメタデータだけで、音源には触れません。
+image: /assets/og-otomamono.png
 ---
 
 # オトマモノ

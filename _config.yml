@@ -9,3 +9,7 @@ twitter:
 
 plugins:
   - jekyll-sitemap
+
+# 画像生成スクリプトは公開しない
+exclude:
+  - tools/
